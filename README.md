@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammadBangee
-- 👀 I’m interested in Security and working in the SOC department of a company.
-- 🌱 I’m currently learning Computer Science which is my major.
-- 💞️ I’m looking to collaborate on Security Analysing etc.
+- 👀 I’m a DevOps Engineer.
+- 🌱 I’m have done my Bachelor's of Science in Computer Science.
+- 💞️ I’m looking to collaborate on DevOps related tasks etc.
 - 📫 How to reach me: mohammadbangee32@gmail.com
 
 <!---
